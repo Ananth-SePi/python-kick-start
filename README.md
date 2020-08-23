@@ -12,4 +12,5 @@ classes, exception handling etc.
 ### Directory
 
 ##### Introduction
-* [Data types](https://github.com/python-kick-start/blob/master/introduction/data-types.py)
+* [Data types](https://github.com/Ananth-SePi/python-kick-start/blob/master/introduction/data_types.py)
+* [Compound data type](https://github.com/Ananth-SePi/python-kick-start/blob/master/introduction/compound_data_type.py)
