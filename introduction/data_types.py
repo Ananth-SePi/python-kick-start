@@ -13,15 +13,15 @@ print(f'subtraction of {number1} and {number2} is ', number1 - number2)
 print(f'multiplication of {number1} and {number2} is ', number1 * number2)
 
 # division - quotient (float)
-print(f'ivision - quotient (float) of {number1} and {number2} is ', number1 / number2)
+print(f'division - quotient (float) of {number1} and {number2} is ', number1 / number2)
 
-# division - quotient (discards the fractional value)
+# division - quotient (discards the fractional value) / floor division
 print(f'division - quotient (integer) of {number1} and {number2} is ', number1 // number2)
 
 # division - remainder
 print(f'division - remainder of {number1} and {number2} is ', number1 % number2)
 
-# power of n
+# power of n / exponentiation
 print(f'{number1} to the power of {number2} is ', number1 ** number2)
 
 # string
